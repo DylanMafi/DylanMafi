@@ -26,7 +26,7 @@ I'm a passionate developer with a deep interest in Software Architecture and Art
 </p>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/dylanmafi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dylan-styvens-mafi-33401a21a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 ### Main skills:
